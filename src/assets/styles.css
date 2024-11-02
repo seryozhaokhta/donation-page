@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "VTB Group UI";
+  src: url("~@/assets/fonts/VTBGroupUI-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "VTB Group UI";
+  src: url("~@/assets/fonts/VTBGroupUI-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "VTB Group UI";
+  src: url("~@/assets/fonts/VTBGroupUI-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+body,
+.form-container {
+  font-family: "VTB Group UI", sans-serif;
+}
